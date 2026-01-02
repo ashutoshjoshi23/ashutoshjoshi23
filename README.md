@@ -1,7 +1,7 @@
 
 
 **👋 Hi, I’m Ashutosh Joshi**  
-- 🏢 Microsoft Learn Student Ambassador Beta & Lead @Microsoft, Technology Researcher @AIForce Labs
+- 🏢 Microsoft Learn Student Ambassador Beta & Lead **@Microsoft**, Technology Researcher **@AIForce Labs**
 - 👀 Interested in **Cloud, DevOps, Data & AI, ML, Agents, Automation, Web Dev, Enterprise Applications Transformations**  
 - 📫 Feel free to reach out: **Email**: ashutoshjoshi394@gmail.com | **LinkedIn**: [Ashutosh Joshi](https://www.linkedin.com/in/ashutosh-joshi23/)  
 - 😄 Pronouns: He/Him  
